@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Learn field hockey skills
 
-You can use the [editor on GitHub](https://github.com/fieldhockeyskills/fieldhockeyskills.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This page is your first step in improving your hockey skills. Here is where you land after logging in and begin to take the next step forwards.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The content we provide for you is organised by type on the left side bar menu. All categories are organised from beginner onward, starting at Introduction and progressing in skill difficulty to maximum Level 5. There are How to videos for longer explanations of the foundation skills.
 
-### Markdown
+If you have experience playing hockey you could skip through to level 3 skills, as the earlier levels are to help the new player, but skipping is only recommended if you already know them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you want information covering tips on grips, body position, stages of learning the basics, and footwork you can find those in the levels Introduction, up to level 2.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fieldhockeyskills/fieldhockeyskills.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you are new to hockey, starting with the introduction videos gives you a step by step journey that can be followed or presented. Doing so gives you exposure to a diverse and large skill vocabulary to use in your games and practice.
